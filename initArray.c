@@ -23,9 +23,9 @@ int main(){
     */
 
    printf("%d\n",arr[0]);//i try to print the index 0 value in the array
-   printf("%d\n",arr1[3]);//i try to print the index 5 value in the array
-   printf("%d\n",arr2[2]);//i try to print the index 4 value in the array
-   printf("%d\n",arr3[0]);//i try to print the index 3 value in the array
+   printf("%d\n",arr1[3]);//i try to print the index 3 value in the array
+   printf("%d\n",arr2[2]);//i try to print the index 2 value in the array
+   printf("%d\n",arr3[0]);//i try to print the index 0 value in the array
    printf("%c\n",var[0]);//i try to print the index 0 value in the array
    printf("\n");//new line
 
